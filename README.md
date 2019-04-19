@@ -1,4 +1,4 @@
 # BLT
 BLT Website Project
 
-This website is no longer in use... 
+This website is no longer being updated.
